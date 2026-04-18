@@ -5,8 +5,7 @@ This project presents a **Power BI Healthcare Dashboard** that analyzes hospital
 
 ## 🔗 Live Report
 
-👉 Power BI link :
-https://app.powerbi.com/groups/815c756b-2311-4c7a-94b0-efea31a9fa2a/reports/648d3a14-8d79-4716-9062-471685594b26/5e76a31861460ecc260e?experience=power-bi)
+👉https://app.powerbi.com/groups/815c756b-2311-4c7a-94b0-efea31a9fa2a/reports/648d3a14-8d79-4716-9062-471685594b26/5e76a31861460ecc260e?experience=power-bi)
 
 ## 📊 Key Metrics
 
